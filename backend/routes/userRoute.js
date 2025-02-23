@@ -11,9 +11,12 @@ import {
     verifyRazorpay,
     paymentStripe,
     verifyStripe,
+    getSummary,
+    previousReports,
 } from "../controllers/userController.js";
 import upload from "../middleware/multer.js";
 import authUser from "../middleware/authUser.js";
+import { uploadPdf } from "../config/multer.js";
 const userRouter = express.Router();
 
 userRouter.post("/register", registerUser);
@@ -33,5 +36,8 @@ userRouter.post("/payment-razorpay", authUser, paymentRazorpay);
 userRouter.post("/verifyRazorpay", authUser, verifyRazorpay);
 userRouter.post("/payment-stripe", authUser, paymentStripe);
 userRouter.post("/verifyStripe", authUser, verifyStripe);
+userRouter.get("/previous-reports", authUser, previousReports);
+userRouter.post("/get-summary", uploadPdf.single('report'), authUser, getSummary);
+
 
 export default userRouter;

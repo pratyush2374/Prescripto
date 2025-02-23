@@ -1,0 +1,64 @@
+
+
+PratyushSharma
+pratyushsharma2374@gmail.com+919867327251
+PortfolioLinkedInGitHub–ID: pratyush2374
+Mumbai, Maharashtra, India
+ProfessionalSummary
+Results-driven Computer Science student skilled in building dynamic, user-focused web applications. Proficient in frontend 
+technologies like JavaScript, React, TypeScript, Next.js, HTML, CSS, and Tailwind CSS. Experienced in backend development with 
+Node.js, Express.js, Next.jsand secure authentication using JWT. Proficient in working with databases like PostgreSQL, MongoDB, 
+MySQL, and Redis. Expertise in RESTful API testing using Postman, version control with Git, containerization with Docker, real-time 
+communication with WebSockets, and agile tools like Jira and currently expanding skills in Redisand GraphQLto enhance API and 
+data management.Dedicated to delivering innovative, impactful solutions.
+Education
+•KishinchandChellaramCollege,Mumbai
+B.Sc. in Computer Science (2022–April 2025)CGPA: 9.57
+•St.Xavier's College–2022 –12
+th
+Std –SciencePercentage:70.17%
+•St.Joseph's High School–2020 -10
+th 
+StdPercentage: 92.6%
+Skills
+Hobbies–Coding, Travelling, BikeRiding
+Project Pipeline(Target Completion:April15, 2025)
+•PTAI : AI-based fitness app with Next.js, offering personalized workouts and nutrition plans.
+•My Portfolio: Website where I showcase my skills and journey
+•Shade Mail: Anonymous messaging platform built with Next.js, allowing users to send messages securely
+•SlinkIt: A tool for creating and managing shortened URLs like Bitly.
+•YouTube Backend: Backend system for video hosting and management, handling uploads, streaming, and interactions.
+•TripTuner: AI-based itinerary generator based on user input; save, like, and discover itineraries.
+•MployCraft (In Progress): AI-powered platform for resume & cover letter customization with application tracking.
+Other projects include Expense Calculator, Simple Social Media, Todo App, Netflix Landing Page Clone, Medicine Donating 
+Website, and College Merch Website, which showcase skills in building functional web applications, e-commerce platforms, 
+and responsive UI designs.
+•Complete E-commerce Platform: An end-to-end online shopping platform with user authentication, product catalogs, 
+and a payment gateway.
+•Real-Time Video Streaming Platform: Platform allowing users to stream live video, with features like user 
+authentication, chat integration, and video archiving.
+•Collaborative Notes Taking App: A real-time platform for users to take, edit, and share notes collaboratively.
+•YouTube Clone: A video platform with features for uploading, posting, and managing content.
+Projects
+Aiming to learn
+Core Competencies
+Experience
+•Spearheaded and collaborated with 10+ project teams, swiftly troubleshooting and resolving critical bugs, ensuring 
+enhanced functionality, optimized performance, and on-time project delivery
+•Optimized PTAI website performance, achieving an LCP of 0.35s, 0 CLS, and a perfect 100 Lighthouse score on Google 
+Chrome, ensuring seamless user experience and top-tier web vitals across multiple deployments
+•Boosted SEO performance, achieving 90+ in Chrome's Lighthouseand 100 in a Next.js web app, by implementing page-
+specific metadata withReact Helmetfor optimized indexing and discoverability
+•Proficient in version control systems (Git and GitHub), with expertise in repository management, branching strategies, 
+conflict resolution, and versioning.
+•Skilled in developing scalable, high-performance, and maintainablefull-stack web applications using the MERNstack, 
+ensuring cross-functional collaboration and seamless deployment.
+• JavaScript   • TypeScript   • HTML   • CSS   • React • Next.js   • PostgreSQL  • MySQL   • MongoDB   • Express   • Node.js  
+• Mongoose • Git and GitHub   • Vim   • Tailwind CSS   • Socket.IO   • Docker   • Python   • Java   • Redux   • Next Auth 
+• AI Prompting   • JWT   • Nodemailer   • Linux   • Office 365   • Prisma   • Redis  • Razorpay
+• GraphQL   • Apache Kafka  • Kubernetes   • Serverless architecture (firebase)
+• Web Development   • Troubleshooting & Debugging   • Database Management   • Version Control   • Programming Proficiency   
+• Full Stack Development   • API Design & Integration   • Responsive Web Design   • Real-Time Communication   • Agile 
+Methodology   • Collaboration & Teamwork   • Continuous Learning & Research   • Authentication & Authorization   
+• Productivity & Time Management
+Same ID in both accounts
