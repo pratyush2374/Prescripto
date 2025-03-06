@@ -192,7 +192,7 @@ const bookAppointment = async (req, res) => {
         // save new slots data in docData
         await doctorModel.findByIdAndUpdate(docId, { slots_booked });
 
-        await sendAppointmentEmail(userData.fullName, userData.email, docData.name, slotDate, slotTime);
+        await sendAppointmentEmail(userData.name, userData.email, docData.name, slotDate, slotTime);
 
         res.json({ success: true, message: "Appointment Booked" });
     } catch (error) {
